@@ -1,0 +1,11 @@
+C:\Users\ayham\source\repos\zombie_killer_by_Ayham\zombie_killer_by_Ayham\bin\Debug\zombie_killer_by_Ayham.exe.config
+C:\Users\ayham\source\repos\zombie_killer_by_Ayham\zombie_killer_by_Ayham\bin\Debug\zombie_killer_by_Ayham.exe
+C:\Users\ayham\source\repos\zombie_killer_by_Ayham\zombie_killer_by_Ayham\bin\Debug\zombie_killer_by_Ayham.pdb
+C:\Users\ayham\source\repos\zombie_killer_by_Ayham\zombie_killer_by_Ayham\obj\Debug\zombie_killer_by_Ayham.csproj.AssemblyReference.cache
+C:\Users\ayham\source\repos\zombie_killer_by_Ayham\zombie_killer_by_Ayham\obj\Debug\zombie_killer_by_Ayham.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayham\source\repos\zombie_killer_by_Ayham\zombie_killer_by_Ayham\obj\Debug\zombie_killer_by_Ayham.Form1.resources
+C:\Users\ayham\source\repos\zombie_killer_by_Ayham\zombie_killer_by_Ayham\obj\Debug\zombie_killer_by_Ayham.Properties.Resources.resources
+C:\Users\ayham\source\repos\zombie_killer_by_Ayham\zombie_killer_by_Ayham\obj\Debug\zombie_killer_by_Ayham.csproj.GenerateResource.cache
+C:\Users\ayham\source\repos\zombie_killer_by_Ayham\zombie_killer_by_Ayham\obj\Debug\zombie_killer_by_Ayham.csproj.CoreCompileInputs.cache
+C:\Users\ayham\source\repos\zombie_killer_by_Ayham\zombie_killer_by_Ayham\obj\Debug\zombie_killer_by_Ayham.exe
+C:\Users\ayham\source\repos\zombie_killer_by_Ayham\zombie_killer_by_Ayham\obj\Debug\zombie_killer_by_Ayham.pdb
